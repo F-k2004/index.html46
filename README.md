@@ -8,7 +8,7 @@ html,body{margin:0;overflow:hidden;background:#00030a;font-family:system-ui}
 canvas{display:block}
 .hud{
   
-  osition:absolute;left:16px;top:16px;
+  position:absolute;left:16px;top:16px;
   padding:12px 16px;border-radius:14px;
   background:rgba(255,255,255,0.06);
   backdrop-filter:blur(10px);
